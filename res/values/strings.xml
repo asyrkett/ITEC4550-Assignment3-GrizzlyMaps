@@ -8,7 +8,8 @@
     <string name="campus_map">Campus Map</string>
     <string name="about_button">About…</string>
     <string name="created_by">Created By</string>
-    <string name="class_info">ITEC 4550\nSpring 2015</string>
+    <string name="class_info">ITEC 4550 - Spring 2015</string>
     <string name="creator_name">Aida Syrkett</string>
+    <string name="creator_info">Aida likes coding, reading, and all kinds of media. She graduates May 2015!</string>
 
 </resources>

@@ -19,6 +19,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/textView1"
         android:contentDescription="@string/campus_map"
+        android:padding="10dp"
         android:src="@drawable/campus_map" />
 
 </RelativeLayout>
